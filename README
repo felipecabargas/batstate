@@ -1,0 +1,12 @@
+BATSTATE
+
+Just another @juanpintoduran project.
+Please visit <http://www.cabargas.com> for more information.
+
+------------------------------------------------------------
+
+This is just an experiment, on this repo you will find python scripts to
+review your battery state (wear percentage) for diferent UNIX based OS.
+
+testbat-deb.py ............ DEBIAN/UBUNTU
+testbat-rhat.py............ FEDORA/REDHAT
