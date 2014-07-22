@@ -1,5 +1,6 @@
 #! /usr/bin/python
 # 2011-2012 | Created by Alfonso Cabargas Madrid under GPL 3 License
+# 2014      | 		     Katerine Munoz Tello
 # Please visit http://www.cabargas.com/ for more info about this program.
 # Any question drop me an email to <felipe@cabargas.com>
 
